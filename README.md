@@ -71,22 +71,57 @@ I am a Quality Assurance Lead with a passion for ensuring the highest levels of 
 
 ## 💼 Skills
 
-- 🧠 Ability to Work Under Pressure (Expert)
-- 💻 C++ (Expert)
-- 📂 Git (Expert)
-- ⏰ Effective Time Management (Expert)
-- ☕ Java (Expert)
-- 📊 Microsoft Office (Expert)
-- 🐍 Python (Expert)
-- 🗣️ Communication Skills (Expert)
-- 📊 JIRA (Expert)
-- 💾 SQL (Expert)
-- 🧪 Selenium (Expert)
-- 📤 Functional Testing (Expert)
-- 🔌 Jenkins (Expert)
-- 🔄 Automated Testing (Expert)
-- 🤝 Leadership and Teamwork (Expert)
-- 🧪 API Testing (Expert)
+**PROGRAMMING LANGUAGES**
+- Java 🚀
+- .Net 💻
+- JavaScript 🌐
+- PL SQL 📄
+- T-SQL/SQL 📊
+- Swift 🚗
+- Ruby 💎
+- Python 🐍
+- C/C++ 🖥️
+- HTML 🌐
+- CSS 🎨
+
+**FRAMEWORKS**
+- Appium 📱
+- Spring 🌸
+- Selenium ⚙️
+- Hibernate 🏰
+- Angular JS 🅰️
+- Detox 🧪
+- RestAssure 🔗
+- Cypress 🌲
+- Node JS 🐢
+- Cucumber 🥒
+- XCTest 📲
+
+**DATABASES**
+- SQL Server 🛢️
+- Oracle 🏺
+- MySQL 🐬
+- MongoDB 🍃
+- Dynamo 💡
+- DB2 📦
+
+**TOOLS**
+- Visual Studio 💼
+- Eclipse 🌘
+- Office 📚
+
+**OPERATING SYSTEMS**
+- Windows 🪟
+- Linux 🐧
+- MacOS 🍏
+- Mainframe/AS400 🏢
+
+**OTHERS**
+- Postman 📮
+- SOAP 🛁
+- Azure ☁️
+- AWS ☁️
+
 
 ## 🌐 Languages
 
