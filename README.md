@@ -7,7 +7,7 @@
 
 ## Summary
 
-I am a Quality Assurance Lead with a passion for ensuring the highest levels of software quality. My career has taken me from software testing to development, and I specialize in mobile testing using XCTest and Espresso. My experience includes leading international projects, collaborating closely with development teams, and utilizing various CI/CD platforms. I'm dedicated to meeting customer requirements and addressing issues promptly. I have a profound understanding of testing processes and a meticulous approach to maintaining software quality.
+I am a Quality Assurance Lead with a passion for ensuring the highest levels of software quality. My career has taken me from software testing to development, and I specialize in mobile testing using XCTest and Espresso. My experience includes leading international projects, collaborating closely with development teams, and utilizing various CI/CD platforms. I am dedicated to meeting customer requirements and addressing issues promptly. I have a profound understanding of testing processes and a meticulous approach to maintaining software quality.
 
 ## 🌐 Employment History
 
