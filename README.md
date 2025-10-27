@@ -1,17 +1,32 @@
-# Leonardo Almeida, Lead QA 👨‍💻
+# Leonardo Almeida, Lead QA | SDET 👨‍💻
 
 
-- 📍 Location: Lages, Brazil
+- 📍 Location: Itajai, Brazil
 - 📞 Contact: [Email](mailto:almeidaleo1995@gmail.com)
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/leonardo-almeida19/)
 
 ## Summary
 
-I am a Quality Assurance Lead with a passion for ensuring the highest levels of software quality. My career has taken me from software testing to development, and I specialize in API testing using Rest and Cypress. My experience includes leading international projects, collaborating closely with development teams, and utilizing various CI/CD platforms. I am dedicated to meeting customer requirements and addressing issues promptly. I have a profound understanding of testing processes and a meticulous approach to maintaining software quality.
+Senior Software Quality Engineer | Software Developer in Test with over 7 years of experience in automation and quality assurance for complex solutions.
+Experience with Java, Python, C#, Cucumber, Spring, React, and CI/CD (Bamboo, Git Actions), as well as Web, API, and Mobile testing (Appium, Espresso, XCTest).
+Postgraduate degree in Software Engineering, with experience in data model validation, real-time risk analysis, and legacy code refactoring.
+Focus on scalable, reliable, and high-performance deliveries.
+
 
 ## 🌐 Employment History
 
-### Quality Assurance Lead, Sofist (Jan 2023 - Present)
+### Senior Quality Assurance Engineer, Trustly (May 2024 - Present)
+
+- Ensuring process and solution quality.
+-	Developing automated tests for APIs, data models, and real-time risk analysis.
+-	Programming in Python and Java, with a focus on test automation.
+-	Building CI/CD pipelines using tools like Bamboo and Git Actions.
+- Creating automation projects from scratch, refactoring legacy code, and providing continuous support.
+-	Applying Agile methodologies for task management using platforms like Jira.
+-	Experience with AWS, SQL, and PostgreSQL to support cloud systems and databases. 
+
+
+### Quality Assurance Lead, Sofist (Jan 2023 - May 2024)
 
 - QA Lead on international projects.
 - Expert in automated testing for mobile projects using XCTest and Espresso.
